@@ -4,7 +4,7 @@
 This is my project. This chess is played on terminal. 
 
 ## What is the main feature?
-Right now, I am still developing this project. This code only can make new board, validate pieces move but not validate if the way is empty and print the board to console
+Right now, I am still developing this project. This code only can make new board, validate main.java.pieces move but not validate if the way is empty and print the board to console
 
 ## How to play?
 Simply just run the main.java file
